@@ -34,7 +34,6 @@ class Concentration {
                 indexOfOneAndOnlyFaceUpCard = index
             }
         }
-        
     }
     
     init(numbersOfPairsOfCards: Int) {
